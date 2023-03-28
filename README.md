@@ -1,0 +1,2 @@
+# cnc
+Bulkman CNC config
